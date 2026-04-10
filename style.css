@@ -24,3 +24,9 @@ body {
     width: 150px;
     margin: 0 auto;
 }
+.bg-orange {
+    background-color: #f8a000;
+}
+.icon {
+    width: 65px;
+}
