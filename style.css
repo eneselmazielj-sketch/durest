@@ -2,16 +2,16 @@
     background-color: #191818 !important;
 }
 
-.text-main {
-
-}
-
 .text-orange {
     color: #f8a000;
 }
 
-body {
-    height: 2000px;
+.bg-orange {
+    background-color: #f8a000;
+}
+
+.border-orange {
+    border-color: #f8a000 !important;
 }
 
 .carousel-caption {
@@ -24,20 +24,20 @@ body {
     width: 150px;
     margin: 0 auto;
 }
-.bg-orange {
-    background-color: #f8a000 !important;
-}
-.border-orange {
-    border:  #f8a000;
-}
+
 .icon {
     width: 65px;
 }
+
 .nav-link.active {
-    background-color: transparent !important;
-    color:white !important;
-    border:none !important;
+    background-color: #f8a000 !important;
+    color: white !important;
+    border: none !important;
 }
+
 .menu-bg {
     background-color: #31302d;
+}
+.input-bg, .input-bg:focus {
+    background-color: #383838;
 }
